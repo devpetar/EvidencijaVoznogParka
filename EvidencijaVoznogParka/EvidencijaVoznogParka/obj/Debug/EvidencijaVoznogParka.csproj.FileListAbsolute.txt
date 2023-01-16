@@ -1,0 +1,8 @@
+C:\Users\petar.deveric\source\repos\EvidencijaVoznogParka\EvidencijaVoznogParka\bin\Debug\EvidencijaVoznogParka.exe.config
+C:\Users\petar.deveric\source\repos\EvidencijaVoznogParka\EvidencijaVoznogParka\bin\Debug\EvidencijaVoznogParka.exe
+C:\Users\petar.deveric\source\repos\EvidencijaVoznogParka\EvidencijaVoznogParka\bin\Debug\EvidencijaVoznogParka.pdb
+C:\Users\petar.deveric\source\repos\EvidencijaVoznogParka\EvidencijaVoznogParka\obj\Debug\EvidencijaVoznogParka.csproj.AssemblyReference.cache
+C:\Users\petar.deveric\source\repos\EvidencijaVoznogParka\EvidencijaVoznogParka\obj\Debug\EvidencijaVoznogParka.csproj.SuggestedBindingRedirects.cache
+C:\Users\petar.deveric\source\repos\EvidencijaVoznogParka\EvidencijaVoznogParka\obj\Debug\EvidencijaVoznogParka.csproj.CoreCompileInputs.cache
+C:\Users\petar.deveric\source\repos\EvidencijaVoznogParka\EvidencijaVoznogParka\obj\Debug\EvidencijaVoznogParka.exe
+C:\Users\petar.deveric\source\repos\EvidencijaVoznogParka\EvidencijaVoznogParka\obj\Debug\EvidencijaVoznogParka.pdb
